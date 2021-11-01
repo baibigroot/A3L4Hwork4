@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A3L4Hwork4</string>
+    <string name="open_the_form">open the form</string>
+    <string name="dialog_questioin">Are you sure?</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="user_id">User id</string>
+    <string name="group_id">Group id</string>
+</resources>
